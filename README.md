@@ -36,3 +36,7 @@ _To find interesting papers_
 - [知乎：用Python写一个中国象棋AI?](https://www.zhihu.com/question/29472711/answer/45436565)
 - [知乎：中国象棋AI实现](https://www.zhihu.com/question/28068014)
 
+### Coding Style
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+- [Python - PEP 8 Style Guide](https://www.python.org/dev/peps/pep-0008/)
+
