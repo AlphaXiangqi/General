@@ -7,6 +7,7 @@
     - open-source code review
 - [ ] Evaluate the performance of `AlphaXiangqi` with other open-source Xiangqi AI
 - [ ] UI of the system --> [System](https://github.com/AlphaXiangqi/System)
+- [ ] Home page
 
 ## Online Resources
 
