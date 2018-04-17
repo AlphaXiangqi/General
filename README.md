@@ -9,6 +9,39 @@
 - [ ] UI of the system --> [System](https://github.com/AlphaXiangqi/System)
 - [ ] Home page
 
+## Structures
+As of April 16th, 2018
+
+```
+AlphaXiangqi
+├── General
+│   └── src
+│       └── images
+├── Planning
+└── System
+    └── GUI
+```
+
+- __General__: some "general" stuff
+- __Planning__: focus on algorithm development
+- __System__: focus on software development
+
+## Softwares 
+
+### Docker
+
+#### Arch Linux
+```
+# Docker installation
+$ sudo pacman -S docker
+
+# Run
+$ systemctl start docker
+
+# Check if works
+$ sudo docker info
+```
+
 ## Online Resources
 
 ### Background Reading
