@@ -1,12 +1,12 @@
 # General
 
 ## Major TODO
-- [ ] Basic system
-- [ ] Literature review
+- [ ] Basic system --> [System](https://github.com/AlphaXiangqi/System)
+- [ ] Literature review --> [Planning](https://github.com/AlphaXiangqi/Planning)
     - algorithm research
     - open-source code review
-- [ ] Evaluation the performance of `AlphaXiangqi` with other open-source Xiangqi AI
-- [ ] UI of the system
+- [ ] Evaluate the performance of `AlphaXiangqi` with other open-source Xiangqi AI
+- [ ] UI of the system --> [System](https://github.com/AlphaXiangqi/System)
 
 ## Online Resources
 
