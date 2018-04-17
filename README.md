@@ -1,5 +1,20 @@
 # General
 
+# Content
+- [Major TODO](#major-todo)
+- [Software Stack](#software-stack)
+    - [Download](#download)
+    - [Structure](#structure)
+- [Softwares](#softwares)
+    - [Docker](#docker)
+- [Onilne Resources](#online-resources)
+    - [Background Reading](#background-reading)
+    - [Open-source Projects](#open-source-projects)
+    - [Online Tutorials](#online-tutorials)
+    - [Paper](#paper)
+    - [Q & A](#question-and-answer)
+    - [Coding Style](#coding-style)
+
 ## Major TODO
 - [ ] Basic system --> [System](https://github.com/AlphaXiangqi/System)
 - [ ] Literature review --> [Planning](https://github.com/AlphaXiangqi/Planning)
@@ -9,7 +24,21 @@
 - [ ] UI of the system --> [System](https://github.com/AlphaXiangqi/System)
 - [ ] Home page
 
-## Structures
+## Software Stack
+
+### Download
+
+#### Linux
+
+```
+$ cd ~ && mkdir AlphaXiangqi
+$ cd AlphaXiangqi
+$ git clone git@github.com:AlphaXiangqi/General.git
+$ git clone git@github.com:AlphaXiangqi/System.git
+$ git clone git@github.com:AlphaXiangqi/Planning.git
+```
+
+### Structure
 As of April 16th, 2018
 
 ```
@@ -29,6 +58,7 @@ AlphaXiangqi
 ## Softwares 
 
 ### Docker
+- [Docker Docs](https://docs.docker.com/)
 
 #### Arch Linux
 ```
@@ -66,7 +96,7 @@ $ sudo docker info
 ### Paper
 _To find interesting papers_
 
-### Q&A
+### Question and Answer
 - [知乎：用Python写一个中国象棋AI?](https://www.zhihu.com/question/29472711/answer/45436565)
 - [知乎：中国象棋AI实现](https://www.zhihu.com/question/28068014)
 
