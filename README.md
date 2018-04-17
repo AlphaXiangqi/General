@@ -30,8 +30,9 @@ AlphaXiangqi
 
 ### Docker
 
+#### Arch Linux
 ```
-# Docker installation in ArchLinux
+# Docker installation
 $ sudo pacman -S docker
 
 # Run
