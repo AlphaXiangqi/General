@@ -96,7 +96,7 @@ $ sudo docker info
 ### Paper
 _To find interesting papers_
 
-### Question and Anwser
+### Question and Answer
 - [知乎：用Python写一个中国象棋AI?](https://www.zhihu.com/question/29472711/answer/45436565)
 - [知乎：中国象棋AI实现](https://www.zhihu.com/question/28068014)
 
